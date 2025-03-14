@@ -259,7 +259,7 @@ input::placeholder {
     width: 90%;
   }
   input {
-    width: 60vw;
+    width: 55vw;
     padding-right:0;
   }
   
@@ -273,7 +273,7 @@ input::placeholder {
     width: 95%;
   }
   input{
-    width: 60vw;
+    width: 55vw;
     padding-right:0;
   }
   .weather_info {
