@@ -259,11 +259,8 @@ input::placeholder {
     width: 90%;
   }
   input {
-    flex-grow: 1; 
-    min-width: 120px;
-    max-width: 100%;
-    width: auto;
-    padding-right: 0; 
+    width: 60vw;
+    padding-right:0;
   }
   
   .weather_info {
