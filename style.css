@@ -258,9 +258,14 @@ input::placeholder {
   .container {
     width: 90%;
   }
-  input{
-    padding-right:0;
+  input {
+    flex-grow: 1; 
+    min-width: 120px;
+    max-width: 100%;
+    width: auto;
+    padding-right: 0; 
   }
+  
   .weather_info {
     grid-template-columns: none;
   }
