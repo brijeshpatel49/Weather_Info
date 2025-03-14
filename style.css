@@ -276,7 +276,7 @@ input::placeholder {
     width: 95%;
   }
   input{
-    width: 165px;
+    width: 60vw;
     padding-right:0;
   }
   .weather_info {
